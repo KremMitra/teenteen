@@ -195,7 +195,7 @@ Use the GitHub Issues page to report bugs or request features. Please include:
 ---
 ## 📜 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/KremMitra/teenteen/blob/main/License) file for details.
 
 ---
 ## 📞 Contact
