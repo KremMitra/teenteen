@@ -1,4 +1,4 @@
-# 🌐 teenteen™️ – Social Networking Super App
+![TeenTeen Logo](https://drive.google.com/file/d/1fr8wY7I3rDQCeL1WfCWYqh5YE4Mnf2gd/view?usp=drive_link) # teenteen™️ – Social Networking Super App
 
 TeenTeen (aka *"teenteen"*) is a **modern revolutionary social networking super app** designed specifically for teenagers, offering a safe, engaging, and feature-rich platform for social interaction, content sharing, and community building. Built with cutting-edge technologies, TeenTeen (aka *"teenteen"*) provides a seamless experience across mobile devices while prioritizing user safety and privacy. 
 
