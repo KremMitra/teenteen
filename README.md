@@ -1,4 +1,3 @@
-![TeenTeen Logo](https://drive.google.com/file/d/1fr8wY7I3rDQCeL1WfCWYqh5YE4Mnf2gd/view?usp=drive_link) 
 
 # teenteen™️ – Social Networking Super App
 
