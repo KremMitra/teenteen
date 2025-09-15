@@ -1,4 +1,4 @@
-# 🌐 teenteen – Super App
+# 🌐 teenteen – Social Networking Super App
 
 TeenTeen (aka *"teenteen"*) is a **modern revolutionary social networking super app** designed specifically for teenagers, offering a safe, engaging, and feature-rich platform for social interaction, content sharing, and community building. Built with cutting-edge technologies, TeenTeen (aka *"teenteen"*) provides a seamless experience across mobile devices while prioritizing user safety and privacy. 
 
@@ -6,11 +6,12 @@ TeenTeen (aka *"teenteen"*) is a **modern revolutionary social networking super 
 
 ## ✨ Features
 
-- 👥 GroupStudy: Study with your teen(s)
+
 - 🔑 Authentication (Login / Sign Up / Forgot Password)
 - 🌍 Multilingual support (Indian + International languages)
 - 📨 Real-time Messaging
 - 👤 Profile Management
+- 👥 GroupStudy: Study with your teen(s)
 - ⚙️ Settings & Notifications
 - 📱 Cross-platform (Android + iOS)
 - 🔐 Secure with Firebase + JWT Auth
@@ -70,27 +71,32 @@ Prerequisites:
 ---
 
 ## 📂 Project Structure
+   teenteen
+   
+            ├── android/
+            ├── ios/
+            ├── linux/
+            ├── macos/
+            ├── windows/
+            ├── web/
 
-teenteen/
-│
-├── assets/
-│ └── translations/ # .arb language files (multi-language support)
-│
-├── lib/
-│ ├── main.dart # App entry point
-│ ├── app_localizations.dart
-│ ├── screens/ # UI Screens
-│ ├── widgets/ # Reusable widgets
-│ └── services/ # Firebase / API services
-│
-├── backend/ # Node.js Backend (Express + Firebase Admin + MongoDB)
-│ ├── server.js
-│ └── routes/
-│
-├── pubspec.yaml # Flutter dependencies
-└── README.md
+            ├── assets/
+               __ translations # .arb language files (multi-language support)
+            ├── lib/
+               __ main.dart # App entry point
+               __ app_localizations.dart
+               __ screens/ # UI Screens
+               __ widgets/ # Reusable widgets
+               __ services/ # Firebase / API services
 
----
+            ├── backend/ # Node.js Backend (Express + Firebase Admin + MongoDB)
+               __ server.js
+               __ routes/
+               
+            ├── pubspec.yaml # Flutter dependencies
+            ├── README.md
+
+---   
 
 ## 🔧 Installation (packages)
 
@@ -202,10 +208,10 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 TeenTeen Development Team
 
-- Email: contact@teenteen.app
-- Website: www.teenteen.app
-- Twitter: @TeenTeenApp
-- Discord: Join our community
+- Email:   [contact@teenteen.app]([contact@teenteen.app)
+- Website: [www.teenteen.app](www.teenteen.app)
+- Twitter: [@TeenTeenApp]()
+- TeenTeen: [Join our community]()
 ---
 
 
